@@ -6,6 +6,7 @@ This Artificial Neural Network was made with the help of
 <br>
 His social media links are mentioned below so be sure to check his lectures:
 <br>
+<br>
 <a href="https://twitter.com/@hadelinponteves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hadelinponteves" height="30" width="40" /></a>
 <a href="https://instagram.com/@hadelindeponteves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hadelindeponteves" height="30" width="40" /></a>
 </p>
