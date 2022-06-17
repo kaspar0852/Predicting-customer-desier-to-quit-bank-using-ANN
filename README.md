@@ -3,6 +3,7 @@ This Neural Network will predict whether a person is going to quit the bank or n
 I have generated about 86 percent accuracy in this model.
 This Artificial Neural Network was made with the help of 
 <h3 align="center">Hadelin de Ponteves</h3>
+<br>
 His social media links are mentioned below so be sure to check his lectures:
 <br>
 <a href="https://twitter.com/@hadelinponteves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hadelinponteves" height="30" width="40" /></a>
